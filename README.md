@@ -38,8 +38,4 @@ Scenario: You need to fill buckets with water until you've filled 3 buckets. Use
 
 Scenario: You have a series of test scores. You need to calculate the average score, but you want to exclude the highest and lowest scores. Use a loop to find the highest and lowest scores, then calculate the average of the remaining scores.
 
-//Q.10 Simulating a Dice Roll Game
-
-Scenario: Simulate a dice roll game where a player rolls two dice until they get a double. We'll simulate rolls by incrementing counters and resetting them. Use a while loop to simulate the rolls and print each roll's result until a double is rolled.
-
 Note: You have to create and add a JS file and code the answers of the questions mentioned above in it.
